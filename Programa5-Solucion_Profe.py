@@ -34,3 +34,8 @@ print(f'El arreglo tiene {c2}')
 # Imprime la cantidad de números válidos / Prints the count of valid numbers
 print(arr)  
 # Muestra el contenido de 'arr' / Shows the content of 'arr'
+<<<<<<< HEAD
+=======
+print(car)
+# Muestra el contenido de 'car' / Shows the content of 'car'
+>>>>>>> 7144771 (Tercera carga de elementos de mi parcial 1 info 3, con manual de practicas)

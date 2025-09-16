@@ -30,5 +30,11 @@ while contadorIngresos <= 9:
     elif dato.isalpha():
         lista.append(dato)  
         # Si es letra, la agrega a la lista / If it's a letter, adds it to the list
+<<<<<<< HEAD
         contadorIngresos += 1  
         #
+=======
+        contadorIngresos += 1
+print(lista)
+print(arreglo) 
+>>>>>>> 7144771 (Tercera carga de elementos de mi parcial 1 info 3, con manual de practicas)
